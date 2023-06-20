@@ -2,6 +2,3 @@
 
 This change has no associated issue
 
-try associtating an issue
-
-Closing issue 400
